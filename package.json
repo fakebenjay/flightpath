@@ -39,5 +39,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://benjayingly.com/flightpath"
+  "homepage": "https://fakebenjay.github.io/flightpath/"
 }
