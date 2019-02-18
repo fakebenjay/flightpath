@@ -1,0 +1,52 @@
+.tab {
+    border-bottom: 0px;
+    border-radius: 4px 4px 0px 0px;
+    background-color: #ffab43;
+    border-color: #ffab43;
+    border: 0px;
+}
+
+.tab:disabled {
+    border-bottom: 0px;
+    border-radius: 4px 4px 0px 0px;
+    color: black;
+    font-weight: bold;
+    opacity: 1;
+    background-color: #fff;
+    border-color: #fff;
+    cursor: default;
+}
+
+.tab:hover {
+    background-color: #f7cf9e;
+}
+
+.tab:disabled:hover {
+    background-color: #fff;
+    cursor: default;
+}
+
+.row.tabs {
+    float: left;
+    padding: 5px;
+    padding-bottom: 0px;
+    margin: auto;
+    margin-bottom: -1px;
+    width: 100%;
+}
+
+.row.search {
+    padding: 30px;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.row.click {
+    padding: 20px;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.custom-input.trip-edit-field {
+    max-width: 120px;
+}

@@ -1,0 +1,18 @@
+.background {
+    background-color: #d8d8d8;
+}
+
+.tile-background {
+    background-color: #ffffff;
+    width: 100%;
+    margin-right: 10px;
+    border-radius: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.pre-scrollable {
+    max-height: 85vh;
+    max-width: 100%;
+    overflow-y: scroll;
+}

@@ -1,0 +1,52 @@
+/* styling for inputs*/
+.custom-input {
+    border-radius: 4px;
+    height: 30px;
+    border: 1px solid black;
+    box-shadow: none;
+    text-align: center;
+    z-index: 1;
+    overflow-wrap: break-word;
+}
+
+.city-finder {
+    border-radius: 4px !important;
+}
+
+button.btn.btn-default,
+button.btn.btn-success {
+    display: inline;
+}
+
+.x-button {
+    height: 80px;
+    margin-top: 20px;
+    background-color: none;
+    color: black;
+}
+
+.x-button:hover {
+    height: 80px;
+    margin-top: 20px;
+    background: none;
+    color: red;
+}
+
+.friend-button {
+    width: 200px !important;
+}
+
+/*Custom styling for button */
+.custom-button {
+    border-radius: 4px;
+    height: 30px;
+    width: 150px;
+    border: 0;
+    box-shadow: none;
+    text-align: center;
+}
+
+.btn-group-vertical {
+    width: 100%;
+    margin-bottom: 20px;
+}

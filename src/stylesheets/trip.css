@@ -1,0 +1,75 @@
+.sub-title {
+    color: #36454f;
+    margin: 0 0 0 0;
+}
+
+.trip-edit-field {
+    height: 30px;
+    text-align: center;
+    border-color: #36454f !important;
+    width: 150px;
+    font-size: 1em;
+    color: #36454f;
+}
+
+.padding {
+    margin-top: 2%;
+}
+
+.date {
+    text-indent: 50px;
+}
+
+.delete {
+    font-weight: bold;
+    height: 40px;
+    width: 120px;
+    border: none;
+    background: #F2473F;
+    color: white;
+}
+
+.leave {
+    font-weight: bold;
+    margin-left: 25px;
+    height: 40px;
+    width: 120px;
+    border: none;
+    background: #F2473F;
+    color: white;
+}
+
+.filter {
+    font-weight: bold;
+    margin-left: 25px;
+    height: 40px;
+    width: 120px;
+    border: none;
+    background: #CBE5F9;
+}
+
+.centered {
+    margin-left: 20%;
+}
+
+.add {
+    height: 25px !important;
+    width: 40px !important;
+    margin-left: 10px;
+}
+
+.confirm {
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 40px;
+    width: 120px;
+    border: none;
+    background: black;
+    color: white;
+}
+
+.col-xs-8.panels {
+    padding-top: 20px;
+    height: 100vh
+}

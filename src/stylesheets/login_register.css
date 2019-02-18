@@ -1,0 +1,60 @@
+/*Impacts the vertical alignment of all fields */
+.login-register-form {
+    margin-top: 8%;
+    z-index: 5;
+}
+
+/*Padding between each of the rows; spacing*/
+.login-register {
+    padding-top: 20px;
+}
+
+/*Primary brand header*/
+.intro {
+    font-size: 60px;
+    color: white;
+    text-shadow: 2px 2px #565656;
+}
+
+/*Brand Slogan*/
+.tagline {
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 2px #565656;
+}
+
+/*Subtext under submit*/
+.instructions {
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px #565656;
+}
+
+.instructions-link {
+    color: white;
+    text-shadow: 1px 1px #565656;
+}
+
+.instructions-link:hover {
+    color: white;
+    text-shadow: 1px 1px #565656;
+}
+
+.login-button {
+    color: white;
+    height: 35px !important;
+    width: 150px !important;
+    background: black !important;
+}
+
+.login-input {
+    color: black;
+    font-weight: bold;
+    min-width: 200px !important;
+}
+
+/*Placeholder text*/
+::-webkit-input-placeholder {
+    color: black;
+}

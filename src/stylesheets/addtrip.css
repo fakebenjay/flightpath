@@ -1,0 +1,80 @@
+.trip-panel-title {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.title-field {
+    height: 80px;
+    width: 100%;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.add-trip-name-row {
+    text-align: center;
+}
+
+.add-trip-row {
+    margin-top: 175px;
+    text-align: center;
+    height: 100px;
+}
+
+.add-trip-button-row {
+    margin-top: 25px;
+    text-align: center;
+    height: 100px;
+}
+
+.trip-planning-field {
+    height: 50px;
+    text-align: center;
+    border-color: #36454f !important;
+    width: 200px;
+    font-size: 1.5em;
+    color: #36454f;
+}
+
+.date-label {
+    font-size: 16px;
+    color: #36454f;
+    margin: 10px 0 0 0;
+}
+
+.add-trip-title {
+    text-align: center;
+    color: #36454f;
+}
+
+.add-trip-button {
+    width: 200px !important;
+    height: 70px !important;
+    font-size: 1.7em;
+    background-color: #5cb85c;
+    font-weight: bold;
+    color: #36454f;
+}
+
+.error {
+    text-align: center;
+    color: #FF0000;
+}
+
+.larger-times {
+    font-size: 35px;
+}
+
+.no-border {
+    border: 0;
+    background: none;
+    -webkit-appearance: none;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #ccc;
+    font-style: italic;
+}
